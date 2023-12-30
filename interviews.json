@@ -1,0 +1,220 @@
+{
+    "interviews": [
+      {
+        "name": "Artist 1",
+        "link": "https://gwu-museum-studies.github.io/Museum-Digital-Practice-2022/essays/essay-1/",
+        "month": "January",
+        "summary": "Artist 1 is a talented individual. They specialize in abstract art. Their work is known worldwide.",
+        "bio": "Artist 1 was born and raised in City 1. They discovered their love for art at a young age. They studied art in college and have been creating ever since. Their work is featured in several galleries. They continue to push the boundaries of abstract art.",
+        "credits": [
+          {
+            "name": "Credit 1"
+          },
+          {
+            "name": "Credit 2"
+          },
+          {
+            "name": "Credit 3"
+          }
+        ]
+      },
+      {
+        "name": "Artist 2",
+        "link": "https://gwu-museum-studies.github.io/Museum-Digital-Practice-2022/essays/essay-2/",
+        "month": "February",
+        "summary": "Artist 2 is known for their unique style. They focus on landscape art. Their work is highly sought after.",
+        "bio": "Artist 2 grew up in City 2. They were inspired by the natural beauty of their surroundings. They studied art in college and have been painting landscapes ever since. Their work is displayed in several museums. They continue to capture the beauty of nature in their art.",
+        "credits": [
+          {
+            "name": "Credit 4"
+          },
+          {
+            "name": "Credit 5"
+          },
+          {
+            "name": "Credit 6"
+          }
+        ]
+      },
+      {
+        "name": "Artist 3",
+        "link": "https://gwu-museum-studies.github.io/Museum-Digital-Practice-2022/essays/essay-3/",
+        "month": "March",
+        "summary": "Artist 3 is known for their unique style. They focus on landscape art. Their work is highly sought after.",
+        "bio": "Artist 3 grew up in City 3. They were inspired by the natural beauty of their surroundings. They studied art in college and have been painting landscapes ever since. Their work is displayed in several museums. They continue to capture the beauty of nature in their art.",
+        "credits": [
+          {
+            "name": "Credit 4"
+          },
+          {
+            "name": "Credit 5"
+          },
+          {
+            "name": "Credit 6"
+          }
+        ]
+      },
+      {
+        "name": "Artist 4",
+        "link": "https://gwu-museum-studies.github.io/Museum-Digital-Practice-2022/essays/essay-4/",
+        "month": "April",
+        "summary": "Artist 4 is known for their unique style. They focus on landscape art. Their work is highly sought after.",
+        "bio": "Artist 4 grew up in City 4. They were inspired by the natural beauty of their surroundings. They studied art in college and have been painting landscapes ever since. Their work is displayed in several museums. They continue to capture the beauty of nature in their art.",
+        "credits": [
+          {
+            "name": "Credit 4"
+          },
+          {
+            "name": "Credit 5"
+          },
+          {
+            "name": "Credit 6"
+          }
+        ]
+      },
+      {
+        "name": "Artist 5",
+        "link": "https://gwu-museum-studies.github.io/Museum-Digital-Practice-2022/essays/essay-5/",
+        "month": "May",
+        "summary": "Artist 5 is known for their unique style. They focus on landscape art. Their work is highly sought after.",
+        "bio": "Artist 5 grew up in City 5. They were inspired by the natural beauty of their surroundings. They studied art in college and have been painting landscapes ever since. Their work is displayed in several museums. They continue to capture the beauty of nature in their art.",
+        "credits": [
+          {
+            "name": "Credit 4"
+          },
+          {
+            "name": "Credit 5"
+          },
+          {
+            "name": "Credit 6"
+          }
+        ]
+      },
+      {
+        "name": "Artist 6",
+        "link": "https://gwu-museum-studies.github.io/Museum-Digital-Practice-2022/essays/essay-6/",
+        "month": "June",
+        "summary": "Artist 6 is known for their unique style. They focus on landscape art. Their work is highly sought after.",
+        "bio": "Artist 6 grew up in City 6. They were inspired by the natural beauty of their surroundings. They studied art in college and have been painting landscapes ever since. Their work is displayed in several museums. They continue to capture the beauty of nature in their art.",
+        "credits": [
+          {
+            "name": "Credit 4"
+          },
+          {
+            "name": "Credit 5"
+          },
+          {
+            "name": "Credit 6"
+          }
+        ]
+      },
+      {
+        "name": "Artist 7",
+        "link": "http://example.com/artist7",
+        "month": "July",
+        "summary": "Artist 7 is known for their unique style. They focus on landscape art. Their work is highly sought after.",
+        "bio": "Artist 7 grew up in City 7. They were inspired by the natural beauty of their surroundings. They studied art in college and have been painting landscapes ever since. Their work is displayed in several museums. They continue to capture the beauty of nature in their art.",
+        "credits": [
+          {
+            "name": "Credit 4"
+          },
+          {
+            "name": "Credit 5"
+          },
+          {
+            "name": "Credit 6"
+          }
+        ]
+      },
+      {
+        "name": "Artist 8",
+        "link": "http://example.com/artist8",
+        "month": "August",
+        "summary": "Artist 8 is known for their unique style. They focus on landscape art. Their work is highly sought after.",
+        "bio": "Artist 8 grew up in City 8. They were inspired by the natural beauty of their surroundings. They studied art in college and have been painting landscapes ever since. Their work is displayed in several museums. They continue to capture the beauty of nature in their art.",
+        "credits": [
+          {
+            "name": "Credit 4"
+          },
+          {
+            "name": "Credit 5"
+          },
+          {
+            "name": "Credit 6"
+          }
+        ]
+      },
+      {
+        "name": "Artist 9",
+        "link": "http://example.com/artist9",
+        "month": "September",
+        "summary": "Artist 9 is known for their unique style. They focus on landscape art. Their work is highly sought after.",
+        "bio": "Artist 9 grew up in City 8. They were inspired by the natural beauty of their surroundings. They studied art in college and have been painting landscapes ever since. Their work is displayed in several museums. They continue to capture the beauty of nature in their art.",
+        "credits": [
+          {
+            "name": "Credit 4"
+          },
+          {
+            "name": "Credit 5"
+          },
+          {
+            "name": "Credit 6"
+          }
+        ]
+      },
+      {
+        "name": "Artist 10",
+        "link": "http://example.com/artist10",
+        "month": "October",
+        "summary": "Artist 10 is known for their unique style. They focus on landscape art. Their work is highly sought after.",
+        "bio": "Artist 10 grew up in City 10. They were inspired by the natural beauty of their surroundings. They studied art in college and have been painting landscapes ever since. Their work is displayed in several museums. They continue to capture the beauty of nature in their art.",
+        "credits": [
+          {
+            "name": "Credit 4"
+          },
+          {
+            "name": "Credit 5"
+          },
+          {
+            "name": "Credit 6"
+          }
+        ]
+      },
+      {
+        "name": "Artist 11",
+        "link": "http://example.com/artist11",
+        "month": "November",
+        "summary": "Artist 11 is known for their unique style. They focus on landscape art. Their work is highly sought after.",
+        "bio": "Artist 11 grew up in City 11. They were inspired by the natural beauty of their surroundings. They studied art in college and have been painting landscapes ever since. Their work is displayed in several museums. They continue to capture the beauty of nature in their art.",
+        "credits": [
+          {
+            "name": "Credit 4"
+          },
+          {
+            "name": "Credit 5"
+          },
+          {
+            "name": "Credit 6"
+          }
+        ]
+      },
+      {
+        "name": "Artist 12",
+        "link": "http://example.com/artist21",
+        "month": "December",
+        "summary": "Artist 12 is known for their unique style. They focus on landscape art. Their work is highly sought after.",
+        "bio": "Artist 12 grew up in City 12. They were inspired by the natural beauty of their surroundings. They studied art in college and have been painting landscapes ever since. Their work is displayed in several museums. They continue to capture the beauty of nature in their art.",
+        "credits": [
+          {
+            "name": "Credit 4"
+          },
+          {
+            "name": "Credit 5"
+          },
+          {
+            "name": "Credit 6"
+          }
+        ]
+      }
+    ]
+  }

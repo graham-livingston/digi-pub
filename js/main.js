@@ -1,9 +1,9 @@
-// click handler
 $(document).ready(function() {
-    $("*").click(function(event) {
-      event.stopPropagation();
-      console.log(this.id);
-    });
+  // click handler
+    // $("*").click(function(event) {
+    //   event.stopPropagation();
+    //   console.log(this.id);
+    // });
 
     // keypress handler for command prompt
     $('#searchBar').keypress(function(event) {
@@ -15,4 +15,17 @@ $(document).ready(function() {
         }
       });
 
+    $.getJSON('/interviews.json', function(data) {
+      let div = $('#interviewsContainer');
+      $.each(data.interviews, function(i, artist) {
+        let artistInfo = $('<p>').text(`${artist.month}: ${artist.name}`);
+        artistInfo.click(function() {
+          sessionStorage.setItem('name', artist.name);
+          window.location.href = '/templates/interview.html';
+        });
+        div.append(artistInfo);
+      });
+    });
+    
+    // sessionStorage.setItem('name', 'Artist 1');
   });
