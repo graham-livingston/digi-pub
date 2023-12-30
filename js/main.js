@@ -15,7 +15,7 @@ $(document).ready(function() {
         }
       });
 
-    $.getJSON('/interviews.json', function(data) {
+    $.getJSON('./interviews.json', function(data) {
       let div = $('#interviewsContainer');
       $.each(data.interviews, function(i, artist) {
         let artistInfo = $('<p>').text(`${artist.month}: ${artist.name}`);
