@@ -21,11 +21,9 @@ $(document).ready(function() {
         let artistInfo = $('<p>').text(`${artist.month}: ${artist.name}`);
         artistInfo.click(function() {
           sessionStorage.setItem('name', artist.name);
-          window.location.href = '/templates/interview.html';
+          window.location.href = './templates/interview.html';
         });
         div.append(artistInfo);
       });
     });
-    
-    // sessionStorage.setItem('name', 'Artist 1');
   });
